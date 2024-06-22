@@ -1,4 +1,3 @@
-
 #### **QUESTION: 1**
 
 A company employs a team of customer service agents to provide telephone and email support to customers.
@@ -43,8 +42,6 @@ Note: Each correct selection is worth one point.
 Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/27b5c25c-f806-471f-ad25-c25850e9b842.jpg)
-
-1.  See Explanation section for answer.
 
 **Answer(s):** A
 
@@ -97,8 +94,6 @@ Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/e0a5954b-0869-45b4-84ba-5df92ce54baf.jpg)
 
-1.  See Explanation section for answer.
-
 **Answer(s):** A
 
 ##### **Explanation:**
@@ -123,8 +118,6 @@ Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/c1e66141-1407-4fae-a798-aba5db428500.jpg)
 
-1.  See Explanation section for answer.
-
 **Answer(s):** A
 
 ##### **Explanation:**
@@ -148,8 +141,6 @@ Note: Each correct selection is worth one point.
 Select and Place:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/7623e19a-1e30-4ad7-8383-6528fd0a9aa9.jpg)
-
-1.  See Explanation section for answer.
 
 **Answer(s):** A
 
@@ -194,8 +185,6 @@ Select and Place:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/665794bd-b7ba-4ebf-a13d-c739ca4abfda.jpg)
 
-1.  See Explanation section for answer.
-
 **Answer(s):** A
 
 ##### **Explanation:**
@@ -222,8 +211,6 @@ To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/14b64bb1-13d6-410d-8e41-06d1e7822171.jpg)
-
-1.  See Explanation section for answer.
 
 **Answer(s):** A
 
@@ -263,8 +250,6 @@ Note: Each correct selection is worth one point.
 Select and Place:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/c5efaad5-b4fb-46af-a100-3ec830550264.jpg)
-
-1.  See Explanation section for answer.
 
 **Answer(s):** A
 
@@ -318,8 +303,6 @@ Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/3be7e3da-61d3-4563-8a1b-011dd562008f.jpg)
 
-1.  See Explanation section for answer.
-
 **Answer(s):** A
 
 ##### **Explanation:**
@@ -337,8 +320,6 @@ To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/a5bf27d4-5cc2-4bb4-8124-cecafa81f913.jpg)
-
-1.  See Explanation section for answer.
 
 **Answer(s):** A
 
@@ -406,8 +387,6 @@ Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/ffd4afee-42c4-4747-a42d-03488d0bcdee.jpg)
 
-1.  See Explanation section for answer.
-
 **Answer(s):** A
 
 ##### **Explanation:**
@@ -438,8 +417,6 @@ Select and Place:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/a845d0bf-9821-4908-acc1-5df130712574.jpg)
 
-1.  See Explanation section for answer.
-
 **Answer(s):** A
 
 ##### **Explanation:**
@@ -458,8 +435,6 @@ Which three processes should you perform in sequence before you deploy the model
 Select and Place:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/51cc433d-334a-46d9-9b10-9f8dec59a47f.jpg)
-
-1.  See Explanation section for answer.
 
 **Answer(s):** A
 
@@ -497,8 +472,6 @@ Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/6b959bcb-9e1c-4b76-9d4e-a2bccaef9e8e.jpg)
 
-1.  See Explanation section for answer.
-
 **Answer(s):** A
 
 ##### **Explanation:**
@@ -516,8 +489,6 @@ Select the answer that correctly completes the sentence.
 Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/cdecb26d-c070-4fa8-893a-9de6f1c19486.jpg)
-
-1.  See Explanation section for answer.
 
 **Answer(s):** A
 
@@ -540,8 +511,6 @@ Note: Each correct selection is worth one point.
 Select and Place:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/22183d4e-e740-401f-a884-40625310d459.jpg)
-
-1.  See Explanation section for answer.
 
 **Answer(s):** A
 
@@ -569,8 +538,6 @@ Note: Each correct selection is worth one point.
 Select and Place:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/00b3c927-56d1-4b7d-b9ed-55d794cadfb4.jpg)
-
-1.  See Explanation section for answer.
 
 **Answer(s):** A
 
@@ -600,8 +567,6 @@ To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/b6ec57f1-28e5-424f-82ee-866bd644d1ee.jpg)
-
-1.  See Explanation section for answer.
 
 **Answer(s):** A
 
@@ -711,8 +676,6 @@ Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/f811c0a0-f8bd-4654-ba52-953fc6a7e55d.jpg)
 
-1.  See Explanation section for answer.
-
 **Answer(s):** A
 
 ##### **Explanation:**
@@ -743,8 +706,6 @@ Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/9d377620-9fec-4574-8adf-2fd87c444d0e.jpg)
 
-1.  See Explanation section for answer.
-
 **Answer(s):** A
 
 ##### **Explanation:**
@@ -761,8 +722,6 @@ Note: Each correct selection is worth one point.
 Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/0f9746c0-91b1-4f7f-a26d-898ed24aff8b.jpg)
-
-1.  See Explanation section for answer.
 
 **Answer(s):** A
 
@@ -809,8 +768,6 @@ Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/4c5be1b4-50c9-4d05-bb04-bb6be40595c5.jpg)
 
-1.  See Explanation section for answer.
-
 **Answer(s):** A
 
 ##### **Explanation:**
@@ -855,8 +812,6 @@ Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/27efa014-4c16-4596-b833-b8afaf20947e.jpg)
 
-1.  See Explanation section for answer.
-
 **Answer(s):** A
 
 ##### **Explanation:**
@@ -877,8 +832,6 @@ To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/986c0faf-1fab-4095-ae2a-f0cc681607bb.jpg)
-
-1.  See Explanation section for answer.
 
 **Answer(s):** A
 
@@ -906,8 +859,6 @@ Note: Each correct selection is worth one point.
 Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/1850762b-1bdd-4e0f-8d8b-755afb2b1bc2.jpg)
-
-1.  See Explanation section for answer.
 
 **Answer(s):** A
 
@@ -941,8 +892,6 @@ Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/d397e048-7c38-43c0-983e-6c016cb7ac0e.jpg)
 
-1.  See Explanation section for answer.
-
 **Answer(s):** A
 
 ##### **Explanation:**
@@ -960,8 +909,6 @@ To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/3f4d40d2-314d-476a-bea6-4443b553b822.jpg)
-
-1.  See Explanation section for answer.
 
 **Answer(s):** A
 
@@ -981,8 +928,6 @@ Note: Each correct selection is worth one point.
 Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/1233ac93-bc3c-4c0a-8fcb-4f5dfcb1e382.jpg)
-
-1.  See Explanation section for answer.
 
 **Answer(s):** A
 
@@ -1089,8 +1034,6 @@ Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/31ef1dbc-a11a-4691-b9bc-4b66b1701d79.jpg)
 
-1.  See Explanation section for answer.
-
 **Answer(s):** A
 
 ##### **Explanation:**
@@ -1112,8 +1055,6 @@ Note: Each correct selection is worth one point.
 Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/c3f4d693-f9b3-4323-bb39-ba71a358df9f.jpg)
-
-1.  See Explanation section for answer.
 
 **Answer(s):** A
 
@@ -1167,8 +1108,6 @@ Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/4433a91e-f9d6-46be-a320-f7bca8a885d8.jpg)
 
-1.  See Explanation section for answer.
-
 **Answer(s):** A
 
 ##### **Explanation:**
@@ -1190,8 +1129,6 @@ Note: Each correct selection is worth one point.
 Select and Place:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/ed1fdbf7-5e8c-44ee-a2cf-faf741f104d9.jpg)
-
-1.  See Explanation section for answer.
 
 **Answer(s):** A
 
@@ -1240,8 +1177,6 @@ To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/011665bc-5aca-4c4b-b594-8884a72a4705.jpg)
-
-1.  See Explanation section for answer.
 
 **Answer(s):** A
 
@@ -1327,8 +1262,6 @@ Select and Place:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/2dd9da1a-5c49-489b-adaf-d4b091ad88af.jpg)
 
-1.  See Explanation section for answer.
-
 **Answer(s):** A
 
 ##### **Explanation:**
@@ -1359,8 +1292,6 @@ Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/0722025a-d759-4336-a0b6-8607f2b6e372.jpg)
 
-1.  See Explanation section for answer.
-
 **Answer(s):** A
 
 ##### **Explanation:**
@@ -1378,8 +1309,6 @@ To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/84ab599e-eb00-4280-9c77-527a951dc4af.jpg)
-
-1.  See Explanation section for answer.
 
 **Answer(s):** A
 
@@ -1399,8 +1328,6 @@ Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/6f256c08-713b-4537-86fc-357645ff19b3.jpg)
 
-1.  See Explanation section for answer.
-
 **Answer(s):** A
 
 ##### **Explanation:**
@@ -1418,8 +1345,6 @@ To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/7bd04cf8-aa1b-4aa2-bc47-c6ce113a7510.jpg)
-
-1.  See Explanation section for answer.
 
 **Answer(s):** A
 
@@ -1444,8 +1369,6 @@ Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/a336d6c7-8657-448e-98f4-5edd68d95c04.jpg)
 
-1.  See Explanation section for answer.
-
 **Answer(s):** A
 
 ##### **Explanation:**
@@ -1464,8 +1387,6 @@ Note: Each correct selection is worth one point.
 Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/dafae353-7778-43da-8d56-f769fb50189b.jpg)
-
-1.  See Explanation section for answer.
 
 **Answer(s):** A
 
@@ -1542,8 +1463,6 @@ Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/f3b46fa5-2cea-42c4-9aaa-2cc360087d55.jpg)
 
-1.  See Explanation section for answer.
-
 **Answer(s):** A
 
 ##### **Explanation:**
@@ -1595,8 +1514,6 @@ Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/d404af82-47bc-4219-b253-d214afb8fa23.jpg)
 
-1.  See Explanation section for answer.
-
 **Answer(s):** A
 
 ##### **Explanation:**
@@ -1631,8 +1548,6 @@ Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/6a1a2b0e-b19e-4d8c-8339-902adadcf892.jpg)
 
-1.  See Explanation section for answer.
-
 **Answer(s):** A
 
 ##### **Explanation:**
@@ -1653,8 +1568,6 @@ Note: Each correct selection is worth one point.
 Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/9471f930-b475-4e9f-b87f-a8c1bf4019ed.jpg)
-
-1.  See Explanation section for answer.
 
 **Answer(s):** A
 
@@ -1694,8 +1607,6 @@ Note: Each correct selection is worth one point.
 Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/d7e02043-b3ac-4e63-945b-9898d3fd3192.jpg)
-
-1.  See Explanation section for answer.
 
 **Answer(s):** A
 
@@ -1746,8 +1657,6 @@ Note: Each correct selection is worth one point.
 Select and Place:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/fd4e1b91-b432-4717-aac0-311fee64b64b.jpg)
-
-1.  See Explanation section for answer.
 
 **Answer(s):** A
 
@@ -1801,8 +1710,6 @@ Select and Place:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/1c0b19d6-ed07-4f81-9ee8-95629ab9037d.jpg)
 
-1.  See Explanation section for answer.
-
 **Answer(s):** A
 
 ##### **Explanation:**
@@ -1830,8 +1737,6 @@ Note: Each correct selection is worth one point.
 Select and Place:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/094444fb-7e2b-4d83-91a5-6c31c5546981.jpg)
-
-1.  See Explanation section for answer.
 
 **Answer(s):** A
 
@@ -1879,8 +1784,6 @@ To complete the sentence, select the appropriate option in the answer area.
 Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/aa17fbe8-e699-486a-8153-b13f56f7d93c.jpg)
-
-1.  See Explanation section for answer.
 
 **Answer(s):** A
 
@@ -2031,8 +1934,6 @@ Select and Place:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/6c2a4f9b-b325-4eac-b737-e45c0f3da6eb.jpg)
 
-1.  See Explanation section for answer.
-
 **Answer(s):** A
 
 ##### **Explanation:**
@@ -2104,8 +2005,6 @@ Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/f264773c-1069-4bf1-894d-7756b65a316a.jpg)
 
-1.  See Explanation section for answer.
-
 **Answer(s):** A
 
 ##### **Explanation:**
@@ -2164,8 +2063,6 @@ Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/b23d4cc0-063c-44e9-8278-f5abbd7e9839.jpg)
 
-1.  See Explanation section for answer.
-
 **Answer(s):** A
 
 ##### **Explanation:**
@@ -2200,8 +2097,6 @@ Note: Each correct selection is worth one point.
 Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/331baabf-c050-4ab7-84e2-d13748785278.jpg)
-
-1.  See Explanation section for answer.
 
 **Answer(s):** A
 
@@ -2284,8 +2179,6 @@ Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/12897aa8-319e-4f95-91b5-7eb5842dee9a.jpg)
 
-1.  See Explanation section for answer.
-
 **Answer(s):** A
 
 ##### **Explanation:**
@@ -2308,8 +2201,6 @@ Note: Each correct selection is worth one point.
 Select and Place:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/47182d58-5ac8-4b3c-a84a-64edd37ec91a.jpg)
-
-1.  See Explanation section for answer.
 
 **Answer(s):** A
 
@@ -2394,8 +2285,6 @@ Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/b1b3344b-12ac-4fee-8dba-9b8b6dfc0276.jpg)
 
-1.  See Explanation section for answer.
-
 **Answer(s):** A
 
 ##### **Explanation:**
@@ -2477,8 +2366,6 @@ Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/e6e79de1-60f2-45df-8ac8-9faa34fb37d6.jpg)
 
-1.  See Explanation section for answer.
-
 **Answer(s):** A
 
 ##### **Explanation:**
@@ -2508,8 +2395,6 @@ Note: Each correct selection is worth one point.
 Select and Place:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/660ebeb4-f0e8-4133-81f6-7abe3a04fc6c.jpg)
-
-1.  See Explanation section for answer.
 
 **Answer(s):** A
 
@@ -2544,8 +2429,6 @@ Note: Each correct selection is worth one point.
 Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/481b68d3-8254-4dc6-b71f-d579e18c51cc.jpg)
-
-1.  See Explanation section for answer.
 
 **Answer(s):** A
 
@@ -2624,8 +2507,6 @@ Note: Each correct selection is worth one point.
 Select and Place:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/cca17d30-ac0b-43df-911c-3f564c1b4ad7.jpg)
-
-1.  See Explanation section for answer.
 
 **Answer(s):** A
 
@@ -2779,8 +2660,6 @@ Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/2a718ccc-23bb-480f-9de1-1e13077aa25a.jpg)
 
-1.  See Explanation section for answer.
-
 **Answer(s):** A
 
 ##### **Explanation:**
@@ -2824,8 +2703,6 @@ Note: Each correct selection is worth one point.
 Select and Place:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/2bdff9ef-5756-4801-8b5b-9d28bdf1d42e.jpg)
-
-1.  See Explanation section for answer.
 
 **Answer(s):** A
 
@@ -2952,8 +2829,6 @@ Note: Each correct selection is worth one point.
 Hot Area:
 
 ![](https://free-braindumps.com/images/exam-dumps/AI-900/24e51069-3936-437a-b034-4fa46cd3b51e.jpg)
-
-1.  See Explanation section for answer.
 
 **Answer(s):** A
 
