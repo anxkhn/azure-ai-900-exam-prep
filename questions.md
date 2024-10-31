@@ -2884,10 +2884,86 @@ QnA Maker is a cloud-based API service that lets you create a conversational que
 
 https://azure.microsoft.com/en-us/services/cognitive-services/qna-maker/
 
-#### Gentle Reminder
+#### **QUESTION: 133**
 
-Please prepare for the recently added Gen AI under the AI-900 certification which is missing in this list. You can find the necessary resources at [Introduction to Generative AI](https://learn.microsoft.com/training/paths/introduction-generative-ai/).
+You need to provide customers with the ability to query the status of orders by using phones, social media, or digital assistants.
 
----
+What should you use?
 
-If you found this repository helpful, please leave a star. Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/anxkhn) or [Twitter](https://x.com/anxkhn) if you need any assistance.v
+A. an Azure Machine Learning model
+B. the Translator service
+C. a Form Recognizer model
+D. Azure Bot Service 
+
+**Answer(s):** D
+
+#### **QUESTION: 134**
+
+What is an example of unsupervised machine learning?
+A. classification
+B. clustering
+C. regression
+
+**Answer(s):** B
+
+#### **QUESTION: 135**
+
+Which action can be performed by using the Azure Al Vision service?
+
+A. identifying breeds of animals in live video streams
+B. extracting key phrases from documents
+C. extracting data from handwritten letters
+D. creating thumbnails for training videos
+
+**Answer(s):** D
+
+#### **QUESTION: 136**
+
+Which statement is an example of a Microsoft responsible AI principle?
+
+A. AI systems must use only publicly available data
+B. AI systems must be transparent and inclusive Most Voted
+C. AI systems must keep personal details public
+D. AI systems must protect the interests of the company
+
+**Answer(s):** B
+
+
+#### **QUESTION: 137**
+
+What is an example of a Microsoft responsible AI principle?
+
+A. Al systems should protect the interests of developers.
+B. Al systems should be in the public domain.
+C. Al systems should be secure and respect privacy.
+D. Al systems should make personal details accessible.
+
+**Answer(s):** C
+
+#### **QUESTION: 138**
+
+You need to identify groups of rows with similar numeric values in a dataset. Which type of machine
+learning should you use?
+
+A. clustering
+B. regression
+C. classification
+
+**Answer(s):** A
+
+
+#### **QUESTION: 139**
+
+You need to identify groups of rows with similar numeric values in a dataset. Which type of machine
+learning should you use?
+
+A. clustering
+B. regression
+C. classification
+
+**Answer(s):** A
+
+
+
+
+
