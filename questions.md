@@ -5,9 +5,9 @@ A company employs a team of customer service agents to provide telephone and ema
 The company develops a webchat bot to provide automated answers to common customer queries.  
 Which business benefit should the company expect as a result of creating the webchat bot solution?
 
-1.  increased sales
-2.  a reduced workload for the customer service agents
-3.  improved product reliability
+A.  increased sales
+B.  a reduced workload for the customer service agents
+C.  improved product reliability
 
 **Answer(s):** B
 
@@ -15,10 +15,10 @@ Which business benefit should the company expect as a result of creating the web
 
 For a machine learning progress, how should you split data for training and evaluation?
 
-1.  Use features for training and labels for evaluation.
-2.  Randomly split the data into rows for training and rows for evaluation.
-3.  Use labels for training and features for evaluation.
-4.  Randomly split the data into columns for training and columns for evaluation.
+A.  Use features for training and labels for evaluation.
+B.  Randomly split the data into rows for training and rows for evaluation.
+C.  Use labels for training and features for evaluation.
+D.  Randomly split the data into columns for training and columns for evaluation.
 
 **Answer(s):** B
 
@@ -69,10 +69,10 @@ You build a machine learning model by using the automated machine learning user 
 You need to ensure that the model meets the Microsoft transparency principle for responsible AI.  
 What should you do?
 
-1.  Set Validation type to Auto.
-2.  Enable Explain best model.
-3.  Set Primary metric to accuracy.
-4.  Set Max concurrent iterations to 0.
+A.  Set Validation type to Auto.
+B.  Enable Explain best model.
+C.  Set Primary metric to accuracy.
+D.  Set Max concurrent iterations to 0.
 
 **Answer(s):** B
 
@@ -160,10 +160,10 @@ https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choice
 You are designing an AI system that empowers everyone, including people who have hearing, visual, and other impairments.  
 This is an example of which Microsoft guiding principle for responsible AI?
 
-1.  fairness
-2.  inclusiveness
-3.  reliability and safety
-4.  accountability
+A.  fairness
+B.  inclusiveness
+C.  reliability and safety
+D.  accountability
 
 **Answer(s):** B
 
@@ -230,10 +230,10 @@ https://docs.microsoft.com/en-us/learn/modules/responsible-ai-principles/4-guidi
 You are building an AI system.  
 Which task should you include to ensure that the service meets the Microsoft transparency principle for responsible AI?
 
-1.  Ensure that all visuals have an associated text that can be read by a screen reader.
-2.  Enable autoscaling to ensure that a service scales based on demand.
-3.  Provide documentation to help developers debug code.
-4.  Ensure that a training dataset is representative of the population.
+A.  Ensure that all visuals have an associated text that can be read by a screen reader.
+B.  Enable autoscaling to ensure that a service scales based on demand.
+C.  Provide documentation to help developers debug code.
+D.  Ensure that a training dataset is representative of the population.
 
 **Answer(s):** C
 
@@ -266,10 +266,10 @@ https://docs.microsoft.com/en-us/learn/paths/get-started-with-artificial-intelli
 Your company is exploring the use of voice recognition technologies in its smart home devices. The company wants to identify any barriers that might unintentionally leave out specific user groups.  
 This an example of which Microsoft guiding principle for responsible AI?
 
-1.  accountability
-2.  fairness
-3.  inclusiveness
-4.  privacy and security
+A.  accountability
+B.  fairness
+C.  inclusiveness
+D.  privacy and security
 
 **Answer(s):** C
 
@@ -282,12 +282,12 @@ https://docs.microsoft.com/en-us/learn/modules/responsible-ai-principles/4-guidi
 What are three Microsoft guiding principles for responsible AI? Each correct answer presents a complete solution.  
 Note: Each correct selection is worth one point.
 
-1.  knowledgeability
-2.  decisiveness
-3.  inclusiveness
-4.  fairness
-5.  opinionatedness
-6.  reliability and safety
+A.  knowledgeability
+B.  decisiveness
+C.  inclusiveness
+D.  fairness
+E.  opinionatedness
+F.  reliability and safety
 
 **Answer(s):** C,D,F
 
@@ -341,10 +341,10 @@ You need to ensure that you only retweet photos that meet the following requirem
 
 What should you use to analyze the images?
 
-1.  the Verify operation in the Face service
-2.  the Detect operation in the Face service
-3.  the Describe Image operation in the Computer Vision service
-4.  the Analyze Image operation in the Computer Vision service
+A.  the Verify operation in the Face service
+B.  the Detect operation in the Face service
+C.  the Describe Image operation in the Computer Vision service
+D.  the Analyze Image operation in the Computer Vision service
 
 **Answer(s):** B
 
@@ -357,10 +357,10 @@ https://docs.microsoft.com/en-us/azure/cognitive-services/face/overview
 When you design an AI system to assess whether loans should be approved, the factors used to make the decision should be explainable.  
 This is an example of which Microsoft guiding principle for responsible AI?
 
-1.  transparency
-2.  inclusiveness
-3.  fairness
-4.  privacy and security
+A.  transparency
+B.  inclusiveness
+C.  fairness
+D.  privacy and security
 
 **Answer(s):** A
 
@@ -453,10 +453,10 @@ You need to ensure that the app uses the principles for responsible AI.
 Which two principles should you follow? Each correct answer presents part of the solution.  
 Note: Each correct selection is worth one point.
 
-1.  Implement an Agile software development methodology
-2.  Implement a process of AI model validation as part of the software review process
-3.  Establish a risk governance committee that includes members of the legal team, members of the risk management team, and a privacy officer
-4.  Prevent the disclosure of the use of AI-based algorithms for automated decision making
+A.  Implement an Agile software development methodology
+B.  Implement a process of AI model validation as part of the software review process
+C.  Establish a risk governance committee that includes members of the legal team, members of the risk management team, and a privacy officer
+D.  Prevent the disclosure of the use of AI-based algorithms for automated decision making
 
 **Answer(s):** B,C
 
@@ -585,9 +585,9 @@ You have the Predicted vs. True chart shown in the following exhibit.
 
 Which type of model is the chart used to evaluate?
 
-1.  classification
-2.  regression
-3.  clustering
+A.  classification
+B.  regression
+C.  clustering
 
 **Answer(s):** B
 
@@ -604,9 +604,9 @@ https://docs.microsoft.com/en-us/azure/machine-learning/how-to-understand-automa
 
 Which type of machine learning should you use to predict the number of gift cards that will be sold next month?
 
-1.  classification
-2.  regression
-3.  clustering
+A.  classification
+B.  regression
+C.  clustering
 
 **Answer(s):** B
 
@@ -626,10 +626,10 @@ You have a dataset that contains information about taxi journeys that occurred d
 You need to train a model to predict the fare of a taxi journey.  
 What should you use as a feature?
 
-1.  the number of taxi journeys in the dataset
-2.  the trip distance of individual taxi journeys
-3.  the fare of individual taxi journeys
-4.  the trip ID of individual taxi journeys
+A.  the number of taxi journeys in the dataset
+B.  the trip distance of individual taxi journeys
+C.  the fare of individual taxi journeys
+D.  the trip ID of individual taxi journeys
 
 **Answer(s):** B
 
@@ -651,9 +651,9 @@ https://docs.microsoft.com/en-us/dotnet/machine-learning/tutorials/predict-price
 You need to predict the sea level in meters for the next 10 years.  
 Which type of machine learning should you use?
 
-1.  classification
-2.  regression
-3.  clustering
+A.  classification
+B.  regression
+C.  clustering
 
 **Answer(s):** B
 
@@ -745,10 +745,10 @@ https://www.cloudfactory.com/data-labeling-guide https://docs.microsoft.com/en-u
 
 Which service should you use to extract text, key/value pairs, and table data automatically from scanned documents?
 
-1.  Form Recognizer
-2.  Text Analytics
-3.  Language Understanding
-4.  Custom Vision
+A.  Form Recognizer
+B.  Text Analytics
+C.  Language Understanding
+D.  Custom Vision
 
 **Answer(s):** A
 
@@ -786,10 +786,10 @@ You use Azure Machine Learning designer to publish an inference pipeline.
 Which two parameters should you use to access the web service? Each correct answer presents part of the solution.  
 Note: Each correct selection is worth one point.
 
-1.  the model name
-2.  the training endpoint
-3.  the authentication key
-4.  the REST endpoint
+A.  the model name
+B.  the training endpoint
+C.  the authentication key
+D.  the REST endpoint
 
 **Answer(s):** C,D
 
@@ -945,9 +945,9 @@ A medical research project uses a large anonymized dataset of brain scan images 
 You need to use machine learning to support early detection of the different brain haemorrhage types in the images before the images are reviewed by a person.  
 This is an example of which type of machine learning?
 
-1.  clustering
-2.  regression
-3.  classification
+A.  clustering
+B.  regression
+C.  classification
 
 **Answer(s):** C
 
@@ -959,9 +959,9 @@ https://docs.microsoft.com/en-us/learn/modules/create-classification-model-azure
 
 When training a model, why should you randomly split the rows into separate subsets?
 
-1.  to train the model twice to attain better accuracy
-2.  to train multiple models simultaneously to attain better performance
-3.  to test the model by using data that was not used to train the model
+A.  to train the model twice to attain better accuracy
+B.  to train multiple models simultaneously to attain better performance
+C.  to test the model by using data that was not used to train the model
 
 **Answer(s):** C
 
@@ -971,10 +971,10 @@ You are evaluating whether to use a basic workspace or an enterprise workspace i
 What are two tasks that require an enterprise workspace? Each correct answer presents a complete solution.  
 Note: Each correct selection is worth one point.
 
-1.  Use a graphical user interface (GUI) to run automated machine learning experiments.
-2.  Create a compute instance to use as a workstation.
-3.  Use a graphical user interface (GUI) to define and run machine learning experiments from Azure Machine Learning designer.
-4.  Create a dataset from a comma-separated value (CSV) file.
+A.  Use a graphical user interface (GUI) to run automated machine learning experiments.
+B.  Create a compute instance to use as a workstation.
+C.  Use a graphical user interface (GUI) to define and run machine learning experiments from Azure Machine Learning designer.
+D.  Create a dataset from a comma-separated value (CSV) file.
 
 **Answer(s):** A,C
 
@@ -996,11 +996,11 @@ You need to predict the income range of a given customer by using the following 
 Which two fields should you use as features? Each correct answer presents a complete solution.  
 Note: Each correct selection is worth one point.
 
-1.  Education Level
-2.  Last Name
-3.  Age
-4.  Income Range
-5.  First Name
+A.  Education Level
+B.  Last Name
+C.  Age
+D.  Income Range
+E.  First Name
 
 **Answer(s):** A,C
 
@@ -1014,10 +1014,10 @@ You are building a tool that will process images from retail stores and identify
 The solution will use a custom model.  
 Which Azure Cognitive Services service should you use?
 
-1.  Custom Vision
-2.  Form Recognizer
-3.  Face
-4.  Computer Vision
+A.  Custom Vision
+B.  Form Recognizer
+C.  Face
+D.  Computer Vision
 
 **Answer(s):** A
 
@@ -1080,11 +1080,11 @@ https://machinelearningmastery.com/difference-test-validation-datasets/
 What are two metrics that you can use to evaluate a regression model? Each correct answer presents a complete solution.  
 Note: Each correct selection is worth one point.
 
-1.  coefficient of determination (R2)
-2.  F1 score
-3.  root mean squared error (RMSE)
-4.  area under curve (AUC)
-5.  balanced accuracy
+A.  coefficient of determination (R2)
+B.  F1 score
+C.  root mean squared error (RMSE)
+D.  area under curve (AUC)
+E.  balanced accuracy
 
 **Answer(s):** A,C
 
@@ -1156,9 +1156,9 @@ https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-designer-automo
 
 Which type of machine learning should you use to identify groups of people who have similar purchasing habits?
 
-1.  classification
-2.  regression
-3.  clustering
+A.  classification
+B.  regression
+C.  clustering
 
 **Answer(s):** C
 
@@ -1194,10 +1194,10 @@ https://docs.microsoft.com/en-us/dotnet/machine-learning/resources/tasks
 
 Which metric can you use to evaluate a classification model?
 
-1.  true positive rate
-2.  mean absolute error (MAE)
-3.  coefficient of determination (R2)
-4.  root mean squared error (RMSE)
+A.  true positive rate
+B.  mean absolute error (MAE)
+C.  coefficient of determination (R2)
+D.  root mean squared error (RMSE)
 
 **Answer(s):** A
 
@@ -1215,10 +1215,10 @@ https://docs.microsoft.com/en-us/azure/machine-learning/how-to-understand-automa
 Which two components can you drag onto a canvas in Azure Machine Learning designer? Each correct answer presents a complete solution.  
 Note: Each correct selection is worth one point.
 
-1.  dataset
-2.  compute
-3.  pipeline
-4.  module
+A.  dataset
+B.  compute
+C.  pipeline
+D.  module
 
 **Answer(s):** A,D
 
@@ -1235,10 +1235,10 @@ https://docs.microsoft.com/en-us/azure/machine-learning/concept-designer
 You need to create a training dataset and validation dataset from an existing dataset.  
 Which module in the Azure Machine Learning designer should you use?
 
-1.  Select Columns in Dataset
-2.  Add Rows
-3.  Split Data
-4.  Join Data
+A.  Select Columns in Dataset
+B.  Add Rows
+C.  Split Data
+D.  Join Data
 
 **Answer(s):** C
 
@@ -1403,11 +1403,11 @@ https://docs.microsoft.com/en-us/learn/modules/create-regression-model-azure-mac
 Which two actions are performed during the data ingestion and data preparation stage of an Azure Machine Learning process? Each correct answer presents part of the solution.  
 Note: Each correct selection is worth one point.
 
-1.  Calculate the accuracy of the model.
-2.  Score test data by using the model.
-3.  Combine multiple datasets.
-4.  Use the model for real-time predictions.
-5.  Remove records that have missing values.
+A.  Calculate the accuracy of the model.
+B.  Score test data by using the model.
+C.  Combine multiple datasets.
+D.  Use the model for real-time predictions.
+E.  Remove records that have missing values.
 
 **Answer(s):** C,E
 
@@ -1420,9 +1420,9 @@ https://docs.microsoft.com/en-us/azure/machine-learning/concept-data-ingestion h
 You need to predict the animal population of an area.  
 Which Azure Machine Learning type should you use?
 
-1.  regression
-2.  clustering
-3.  classification
+A.  regression
+B.  clustering
+C.  classification
 
 **Answer(s):** A
 
@@ -1439,10 +1439,10 @@ https://docs.microsoft.com/en-us/learn/modules/create-regression-model-azure-mac
 Which two languages can you use to write custom code for Azure Machine Learning designer? Each correct answer presents a complete solution.  
 Note: Each correct selection is worth one point.
 
-1.  Python
-2.  R
-3.  C#
-4.  Scala
+A.  Python
+B.  R
+C.  C#
+D.  Scala
 
 **Answer(s):** A,B
 
@@ -1490,10 +1490,10 @@ https://docs.microsoft.com/en-us/azure/machine-learning/component-reference/trai
 Your company wants to build a recycling machine for bottles. The recycling machine must automatically identify bottles of the correct shape and reject all other items.  
 Which type of AI workload should the company use?
 
-1.  anomaly detection
-2.  conversational AI
-3.  computer vision
-4.  natural language processing
+A.  anomaly detection
+B.  conversational AI
+C.  computer vision
+D.  natural language processing
 
 **Answer(s):** C
 
@@ -1529,10 +1529,10 @@ https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/
 In which two scenarios can you use the Form Recognizer service? Each correct answer presents a complete solution.  
 Note: Each correct selection is worth one point.
 
-1.  Extract the invoice number from an invoice.
-2.  Translate a form from French to English.
-3.  Find image of product in a catalog.
-4.  Identify the retailer from a receipt.
+A.  Extract the invoice number from an invoice.
+B.  Translate a form from French to English.
+C.  Find image of product in a catalog.
+D.  Identify the retailer from a receipt.
 
 **Answer(s):** A,D
 
@@ -1584,10 +1584,10 @@ https://docs.microsoft.com/en-us/azure/cognitive-services/face/overview https://
 You need to develop a mobile app for employees to scan and store their expenses while travelling.  
 Which type of computer vision should you use?
 
-1.  semantic segmentation
-2.  image classification
-3.  object detection
-4.  optical character recognition (OCR)
+A.  semantic segmentation
+B.  image classification
+C.  object detection
+D.  optical character recognition (OCR)
 
 **Answer(s):** D
 
@@ -1633,10 +1633,10 @@ You are processing photos of runners in a race.
 You need to read the numbers on the runners' shirts to identity the runners in the photos.  
 Which type of computer vision should you use?
 
-1.  facial recognition
-2.  optical character recognition (OCR)
-3.  image classification
-4.  object detection
+A.  facial recognition
+B.  optical character recognition (OCR)
+C.  image classification
+D.  object detection
 
 **Answer(s):** B
 
@@ -1683,9 +1683,9 @@ https://developers.google.com/machine-learning/practica/image-classification htt
 You use drones to identify where weeds grow between rows of crops to send an instruction for the removal of the weeds.  
 This is an example of which type of computer vision?
 
-1.  object detection
-2.  optical character recognition (OCR)
-3.  scene segmentation
+A.  object detection
+B.  optical character recognition (OCR)
+C.  scene segmentation
 
 **Answer(s):** A
 
@@ -1761,10 +1761,10 @@ https://azure.microsoft.com/en-us/services/cognitive-services/face/ https://docs
 You need to determine the location of cars in an image so that you can estimate the distance between the cars.  
 Which type of computer vision should you use?
 
-1.  optical character recognition (OCR)
-2.  object detection
-3.  image classification
-4.  face detection
+A.  optical character recognition (OCR)
+B.  object detection
+C.  image classification
+D.  face detection
 
 **Answer(s):** B
 
@@ -1809,10 +1809,10 @@ You send an image to a Computer Vision API and receive back the annotated image 
 
 Which type of computer vision was used?
 
-1.  object detection
-2.  face detection
-3.  optical character recognition (OCR)
-4.  image classification
+A.  object detection
+B.  face detection
+C.  optical character recognition (OCR)
+D.  image classification
 
 **Answer(s):** A
 
@@ -1830,10 +1830,10 @@ https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/concep
 What are two tasks that can be performed by using the Computer Vision service? Each correct answer presents a complete solution.  
 Note: Each correct selection is worth one point.
 
-1.  Train a custom image classification model.
-2.  Detect faces in an image.
-3.  Recognize handwritten text.
-4.  Translate the text in an image between languages.
+A.  Train a custom image classification model.
+B.  Detect faces in an image.
+C.  Recognize handwritten text.
+D.  Translate the text in an image between languages.
 
 **Answer(s):** B,C
 
@@ -1850,10 +1850,10 @@ https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/home
 
 What is a use case for classification?
 
-1.  predicting how many cups of coffee a person will drink based on how many hours the person slept the previous night.
-2.  analyzing the contents of images and grouping images that have similar colors
-3.  predicting whether someone uses a bicycle to travel to work based on the distance from home to work
-4.  predicting how many minutes it will take someone to run a race based on past race times
+A.  predicting how many cups of coffee a person will drink based on how many hours the person slept the previous night.
+B.  analyzing the contents of images and grouping images that have similar colors
+C.  predicting whether someone uses a bicycle to travel to work based on the distance from home to work
+D.  predicting how many minutes it will take someone to run a race based on past race times
 
 **Answer(s):** C
 
@@ -1874,11 +1874,11 @@ https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-referen
 What are two tasks that can be performed by using computer vision? Each correct answer presents a complete solution.  
 Note: Each correct selection is worth one point.
 
-1.  Predict stock prices.
-2.  Detect brands in an image.
-3.  Detect the color scheme in an image
-4.  Translate text between languages.
-5.  Extract key phrases.
+A.  Predict stock prices.
+B.  Detect brands in an image.
+C.  Detect the color scheme in an image
+D.  Translate text between languages.
+E.  Extract key phrases.
 
 **Answer(s):** B,C
 
@@ -1896,10 +1896,10 @@ https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/overvi
 You need to build an image tagging solution for social media that tags images of your friends automatically.  
 Which Azure Cognitive Services service should you use?
 
-1.  Face
-2.  Form Recognizer
-3.  Text Analytics
-4.  Computer Vision
+A.  Face
+B.  Form Recognizer
+C.  Text Analytics
+D.  Computer Vision
 
 **Answer(s):** A
 
@@ -1912,10 +1912,10 @@ https://docs.microsoft.com/en-us/azure/cognitive-services/face/overview https://
 In which two scenarios can you use the Form Recognizer service? Each correct answer presents a complete solution.  
 Note: Each correct selection is worth one point.
 
-1.  Identify the retailer from a receipt
-2.  Translate from French to English
-3.  Extract the invoice number from an invoice
-4.  Find images of products in a catalog
+A.  Identify the retailer from a receipt
+B.  Translate from French to English
+C.  Extract the invoice number from an invoice
+D.  Find images of products in a catalog
 
 **Answer(s):** A,C
 
@@ -1961,10 +1961,10 @@ https://docs.microsoft.com/en-us/azure/cognitive-services/face/overview
 
 Which Computer Vision feature can you use to generate automatic captions for digital photographs?
 
-1.  Recognize text.
-2.  Identify the areas of interest.
-3.  Detect objects.
-4.  Describe the images.
+A.  Recognize text.
+B.  Identify the areas of interest.
+C.  Detect objects.
+D.  Describe the images.
 
 **Answer(s):** D
 
@@ -1982,10 +1982,10 @@ https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/concep
 
 Which service should you use to extract text, key/value pairs, and table data automatically from scanned documents?
 
-1.  Custom Vision
-2.  Face
-3.  Form Recognizer
-4.  Language
+A.  Custom Vision
+B.  Face
+C.  Form Recognizer
+D.  Language
 
 **Answer(s):** C
 
@@ -2023,10 +2023,10 @@ You are developing a solution that uses the Text Analytics service.
 You need to identify the main talking points in a collection of documents.  
 Which type of natural language processing should you use?
 
-1.  entity recognition
-2.  key phrase extraction
-3.  sentiment analysis
-4.  language detection
+A.  entity recognition
+B.  key phrase extraction
+C.  sentiment analysis
+D.  language detection
 
 **Answer(s):** B
 
@@ -2044,10 +2044,10 @@ https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choice
 In which two scenarios can you use speech recognition? Each correct answer presents a complete solution.  
 Note: Each correct selection is worth one point.
 
-1.  an in-car system that reads text messages aloud
-2.  providing closed captions for recorded or live videos
-3.  creating an automated public address system for a train station
-4.  creating a transcript of a telephone call or meeting
+A.  an in-car system that reads text messages aloud
+B.  providing closed captions for recorded or live videos
+C.  creating an automated public address system for a train station
+D.  creating a transcript of a telephone call or meeting
 
 **Answer(s):** B,D
 
@@ -2078,10 +2078,10 @@ https://azure.microsoft.com/en-gb/services/cognitive-services/speech-to-text/#fe
 You need to build an app that will read recipe instructions aloud to support users who have reduced vision.  
 Which version service should you use?
 
-1.  Text Analytics
-2.  Translator
-3.  Speech
-4.  Language Understanding (LUIS)
+A.  Text Analytics
+B.  Translator
+C.  Speech
+D.  Language Understanding (LUIS)
 
 **Answer(s):** C
 
@@ -2114,10 +2114,10 @@ Your website has a chatbot to assist customers.
 You need to detect when a customer is upset based on what the customer types in the chatbot.  
 Which type of AI workload should you use?
 
-1.  anomaly detection
-2.  computer vision
-3.  regression
-4.  natural language processing
+A.  anomaly detection
+B.  computer vision
+C.  regression
+D.  natural language processing
 
 **Answer(s):** D
 
@@ -2136,10 +2136,10 @@ You plan to develop a bot that will enable users to query a knowledge base by us
 Which two services should you include in the solution? Each correct answer presents part of the solution.  
 Note: Each correct selection is worth one point.
 
-1.  QnA Maker
-2.  Azure Bot Service
-3.  Form Recognizer
-4.  Anomaly Detector
+A.  QnA Maker
+B.  Azure Bot Service
+C.  Form Recognizer
+D.  Anomaly Detector
 
 **Answer(s):** A,B
 
@@ -2153,10 +2153,10 @@ https://docs.microsoft.com/en-us/azure/cognitive-services/luis/choose-natural-la
 In which two scenarios can you use a speech synthesis solution? Each correct answer presents a complete solution.  
 Note: Each correct selection is worth one point.
 
-1.  an automated voice that reads back a credit card number entered into a telephone by using a numeric keypad
-2.  generating live captions for a news broadcast
-3.  extracting key phrases from the audio recording of a meeting
-4.  an AI character in a computer game that speaks audibly to a player
+A.  an automated voice that reads back a credit card number entered into a telephone by using a numeric keypad
+B.  generating live captions for a news broadcast
+C.  extracting key phrases from the audio recording of a meeting
+D.  an AI character in a computer game that speaks audibly to a player
 
 **Answer(s):** A,D
 
@@ -2227,10 +2227,10 @@ https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/
 You are building a knowledge base by using QnA Maker.  
 Which file format can you use to populate the knowledge base?
 
-1.  PPTX
-2.  XML
-3.  ZIP
-4.  PDF
+A.  PPTX
+B.  XML
+C.  ZIP
+D.  PDF
 
 **Answer(s):** D
 
@@ -2253,10 +2253,10 @@ https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/concepts/data
 
 In which scenario should you use key phrase extraction?
 
-1.  identifying whether reviews of a restaurant are positive or negative
-2.  generating captions for a video based on the audio track
-3.  identifying which documents provide information about the same topics
-4.  translating a set of documents from English to German
+A.  identifying whether reviews of a restaurant are positive or negative
+B.  generating captions for a video based on the audio track
+C.  identifying which documents provide information about the same topics
+D.  translating a set of documents from English to German
 
 **Answer(s):** C
 
@@ -2266,10 +2266,10 @@ You have insurance claim reports that are stored as text.
 You need to extract key terms from the reports to generate summaries.  
 Which type of AI workload should you use?
 
-1.  natural language processing
-2.  conversational AI
-3.  anomaly detection
-4.  computer vision
+A.  natural language processing
+B.  conversational AI
+C.  anomaly detection
+D.  computer vision
 
 **Answer(s):** A
 
@@ -2301,10 +2301,10 @@ https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choice
 
 Which AI service can you use to interpret the meaning of a user input such as \`Call me back later?\`
 
-1.  Translator
-2.  Text Analytics
-3.  Speech
-4.  Language Understanding (LUIS)
+A.  Translator
+B.  Text Analytics
+C.  Speech
+D.  Language Understanding (LUIS)
 
 **Answer(s):** D
 
@@ -2321,10 +2321,10 @@ https://docs.microsoft.com/en-us/azure/cognitive-services/luis/what-is-luis
 You are developing a chatbot solution in Azure.  
 Which service should you use to determine a user's intent?
 
-1.  Translator
-2.  QnA Maker
-3.  Speech
-4.  Language Understanding (LUIS)
+A.  Translator
+B.  QnA Maker
+C.  Speech
+D.  Language Understanding (LUIS)
 
 **Answer(s):** D
 
@@ -2342,10 +2342,10 @@ https://docs.microsoft.com/en-us/azure/cognitive-services/luis/what-is-luis
 You need to make the written press releases of your company available in a range of languages.  
 Which service should you use?
 
-1.  Translator
-2.  Text Analytics
-3.  Speech
-4.  Language Understanding (LUIS)
+A.  Translator
+B.  Text Analytics
+C.  Speech
+D.  Language Understanding (LUIS)
 
 **Answer(s):** A
 
@@ -2457,10 +2457,10 @@ https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choice
 You are developing a natural language processing solution in Azure. The solution will analyze customer reviews and determine how positive or negative each review is.  
 This is an example of which type of natural language processing workload?
 
-1.  language detection
-2.  sentiment analysis
-3.  key phrase extraction
-4.  entity recognition
+A.  language detection
+B.  sentiment analysis
+C.  key phrase extraction
+D.  entity recognition
 
 **Answer(s):** B
 
@@ -2481,10 +2481,10 @@ You receive the output shown in the following exhibit.
 
 Which type of natural languages processing was performed?
 
-1.  entity recognition
-2.  key phrase extraction
-3.  sentiment analysis
-4.  translation
+A.  entity recognition
+B.  key phrase extraction
+C.  sentiment analysis
+D.  translation
 
 **Answer(s):** A
 
@@ -2535,10 +2535,10 @@ You are authoring a Language Understanding (LUIS) application to support a music
 You want users to be able to ask questions about scheduled shows, such as: \`Which act is playing on the main stage?\`  
 The question \`Which act is playing on the main stage?\` is an example of which type of element?
 
-1.  an intent
-2.  an utterance
-3.  a domain
-4.  an entity
+A.  an intent
+B.  an utterance
+C.  a domain
+D.  an entity
 
 **Answer(s):** B
 
@@ -2556,10 +2556,10 @@ You build a QnA Maker bot by using a frequently asked questions (FAQ) page.
 You need to add professional greetings and other responses to make the bot more user friendly.  
 What should you do?
 
-1.  Increase the confidence threshold of responses
-2.  Enable active learning
-3.  Create multi-turn questions
-4.  Add chit-chat
+A.  Increase the confidence threshold of responses
+B.  Enable active learning
+C.  Create multi-turn questions
+D.  Add chit-chat
 
 **Answer(s):** D
 
@@ -2576,10 +2576,10 @@ You need to develop a chatbot for a website. The chatbot must answer users' ques
 
 Which service should you use to process the documents?
 
-1.  Azure Bot Service
-2.  Language Understanding
-3.  Text Analytics
-4.  QnA Maker
+A.  Azure Bot Service
+B.  Language Understanding
+C.  Text Analytics
+D.  QnA Maker
 
 **Answer(s):** D
 
@@ -2593,10 +2593,10 @@ You are building a Language Understanding model for an e-commerce business.
 You need to ensure that the model detects when utterances are outside the intended scope of the model.  
 What should you do?
 
-1.  Test the model by using new utterances
-2.  Add utterances to the None intent
-3.  Create a prebuilt task entity
-4.  Create a new model
+A.  Test the model by using new utterances
+B.  Add utterances to the None intent
+C.  Create a prebuilt task entity
+D.  Create a new model
 
 **Answer(s):** B
 
@@ -2613,10 +2613,10 @@ https://docs.microsoft.com/en-us/azure/cognitive-services/LUIS/luis-concept-inte
 Which two scenarios are examples of a natural language processing workload? Each correct answer presents a complete solution.  
 Note: Each correct selection is worth one point.
 
-1.  monitoring the temperature of machinery to turn on a fan when the temperature reaches a specific threshold
-2.  a smart device in the home that responds to questions such as, "What will the weather be like today?"
-3.  a website that uses a knowledge base to interactively respond to users' questions
-4.  assembly line machinery that autonomously inserts headlamps into cars
+A.  monitoring the temperature of machinery to turn on a fan when the temperature reaches a specific threshold
+B.  a smart device in the home that responds to questions such as, "What will the weather be like today?"
+C.  a website that uses a knowledge base to interactively respond to users' questions
+D.  assembly line machinery that autonomously inserts headlamps into cars
 
 **Answer(s):** B,C
 
@@ -2634,11 +2634,11 @@ You have an AI solution that provides users with the ability to control smart de
 Which two types of natural language processing (NLP) workloads does the solution use? Each correct answer presents part of the solution.  
 Note: Each correct selection is worth one point.
 
-1.  text-to-speech
-2.  key phrase extraction
-3.  speech-to-text
-4.  language modeling
-5.  translation
+A.  text-to-speech
+B.  key phrase extraction
+C.  speech-to-text
+D.  language modeling
+E.  translation
 
 **Answer(s):** B,C
 
@@ -2730,10 +2730,10 @@ https://docs.microsoft.com/en-us/azure/cognitive-services/translator/text-transl
 You need to make the written press releases of your company available in a range of languages.  
 Which service should you use?
 
-1.  Speech
-2.  Language
-3.  Translator
-4.  Personalizer
+A.  Speech
+B.  Language
+C.  Translator
+D.  Personalizer
 
 **Answer(s):** C
 
@@ -2752,10 +2752,10 @@ You have insurance claim reports that are stored as text.
 You need to extract key terms from the reports to generate summaries.  
 Which type of AI workload should you use?
 
-1.  anomaly detection
-2.  natural language processing
-3.  computer vision
-4.  knowledge mining
+A.  anomaly detection
+B.  natural language processing
+C.  computer vision
+D.  knowledge mining
 
 **Answer(s):** B
 
@@ -2773,10 +2773,10 @@ https://docs.microsoft.com/en-us/azure/cognitive-services/language-service/key-p
 You need to build an app that will read recipe instructions aloud to support users who have reduced vision.  
 Which version service should you use?
 
-1.  Language service
-2.  Translator
-3.  Speech
-4.  Personalizer
+A.  Language service
+B.  Translator
+C.  Speech
+D.  Personalizer
 
 **Answer(s):** C
 
@@ -2794,10 +2794,10 @@ You have a webchat bot that provides responses from a QnA Maker knowledge base.
 You need to ensure that the bot uses user feedback to improve the relevance of the responses over time.  
 What should you use?
 
-1.  key phrase extraction
-2.  sentiment analysis
-3.  business logic
-4.  active learning
+A.  key phrase extraction
+B.  sentiment analysis
+C.  business logic
+D.  active learning
 
 **Answer(s):** D
 
@@ -2810,10 +2810,10 @@ https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/improv
 You are developing a conversational AI solution that will communicate with users through multiple channels including email, Microsoft Teams, and webchat.  
 Which service should you use?
 
-1.  Text Analytics
-2.  Azure Bot Service
-3.  Translator
-4.  Form Recognizer
+A.  Text Analytics
+B.  Azure Bot Service
+C.  Translator
+D.  Form Recognizer
 
 **Answer(s):** B
 
@@ -2846,11 +2846,11 @@ You need to provide content for a business chatbot that will help answer simple 
 What are three ways to create question and answer text by using QnA Maker? Each correct answer presents a complete solution.  
 Note: Each correct selection is worth one point.
 
-1.  Generate the questions and answers from an existing webpage.
-2.  Use automated machine learning to train a model based on a file that contains the questions.
-3.  Manually enter the questions and answers.
-4.  Connect the bot to the Cortana channel and ask questions by using Cortana.
-5.  Import chit-chat content from a predefined data source.
+A.  Generate the questions and answers from an existing webpage.
+B.  Use automated machine learning to train a model based on a file that contains the questions.
+C.  Manually enter the questions and answers.
+D.  Connect the bot to the Cortana channel and ask questions by using Cortana.
+E.  Import chit-chat content from a predefined data source.
 
 **Answer(s):** A,C,E
 
@@ -2869,10 +2869,10 @@ You have a frequently asked questions (FAQ) PDF file.
 You need to create a conversational support system based on the FAQ.  
 Which service should you use?
 
-1.  QnA Maker
-2.  Text Analytics
-3.  Computer Vision
-4.  Language Understanding (LUIS)
+A.  QnA Maker
+B.  Text Analytics
+C.  Computer Vision
+D.  Language Understanding (LUIS)
 
 **Answer(s):** A
 
@@ -2890,4 +2890,4 @@ Please prepare for the recently added Gen AI under the AI-900 certification whic
 
 ---
 
-If you found this repository helpful, please leave a star. Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/anxkhn) or [Twitter](https://x.com/anxkhn) if you need any assistance.v
+If you found this repository helpful, please leave a star. Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/anxkhn) or [Twitter](https://x.com/anxkhn) if you need any assistance.
