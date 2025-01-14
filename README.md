@@ -30,20 +30,22 @@ The Azure AI-900 exam has evolved over the years, with recent additions such as 
 
 1. **Official Learning Path:** Begin with the [official learning path](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900) from Microsoft for a comprehensive overview of the exam topics.
 2. **YouTube Videos:** Watch the latest videos on YouTube. This video from FCC covers almost everything you need. Take notes or screenshots.
-   [YouTube Video](https://www.youtube.com/watch?v=hHjmr_YOqnU)
+   [![YouTube Video](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=hHjmr_YOqnU) FCC Video
 
 3. **Practice Previous Exam Questions:** These resources will provide a good understanding of the exam questions, which are not limited to multiple-choice questions. I highly recommend reviewing these:
 
-   - [YouTube Video 1](https://www.youtube.com/watch?v=edEfRpQSjXs)
-   - [YouTube Video 2](https://www.youtube.com/watch?v=7j1C41LbNYk)
+   - [![YouTube Video 1](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=edEfRpQSjXs) Video 1
+   - [![YouTube Video 2](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=7j1C41LbNYk) Video 2
 
 4. **Official Practice Tests:** Microsoft offers free practice tests for the AI-900 exam. These are an excellent way to test your knowledge and get familiar with the question format.
-   [Official Practice Tests](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification#certification-practice-for-the-exam)
+   [![Practice Tests](https://img.shields.io/badge/Microsoft%20Learn-blue?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification#certification-practice-for-the-exam)
 
-5. **Review Repository Questions:** This repository contains questions I prepared, providing a realistic understanding of exam questions.
+5. **Review Repository Questions:** This repository contains questions I prepared, providing a realistic understanding of exam questions. Also included are exam dumps for further practice.
 
-   [Notes](notes.md) |
-   [Questions](questions.md)
+   [![Notes](https://img.shields.io/badge/Notes-blue?style=for-the-badge&logo=notepad++&logoColor=white)](notes.md) |
+   [![Questions](https://img.shields.io/badge/Questions-red?style=for-the-badge&logo=question-circle&logoColor=white)](questions.md) |
+   [![Dumps](https://img.shields.io/badge/Dumps-green?style=for-the-badge&logo=file-pdf&logoColor=white)](dumps/ai-900.pdf) 
+   
 
 ## Cram Strategy 2024
 
@@ -54,14 +56,16 @@ We all know that engineering undergrads do things last minute, worry not. I have
 ### Recommended Cram Strategy
 
 1. **YouTube Video:** Watch the FCC video, taking notes or screenshots.
-   [YouTube Video](https://www.youtube.com/watch?v=hHjmr_YOqnU)
+   [![YouTube Video](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=hHjmr_YOqnU)
 
 2. **Limited Learning Path:** Focus on Responsible AI, Generative AI, and machine learning (clustering, regression, and classification).
-   [Official Learning Path](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900)
+   [![Learning Path](https://img.shields.io/badge/Microsoft%20Learn-blue?style=for-the-badge&logo=microsoft&logoColor=white)](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900)
 
 3. **Review Repository Questions:** This repository contains questions I prepared, providing a realistic understanding of exam questions.
-   [Notes](notes.md) |
-   [Questions](questions.md)
+   [![Notes](https://img.shields.io/badge/Notes-blue?style=for-the-badge&logo=notepad++&logoColor=white)](notes.md) |
+   [![Questions](https://img.shields.io/badge/Questions-red?style=for-the-badge&logo=question-circle&logoColor=white)](questions.md) |
+   [![Dumps](https://img.shields.io/badge/Dumps-green?style=for-the-badge&logo=file-pdf&logoColor=white)](dumps/ai-900.pdf) 
+
 
 ## PDF Version:
 
@@ -74,8 +78,21 @@ I took CS50 AI, AI and DS as part of my academic degree and learned a lot from o
 ## Certificate
 
 ![certificate.jpg](certificate.jpg)
-[Verify my certification](https://learn.microsoft.com/en-us/users/anxkhn/credentials/60e4a16a343378da)
+[![Verify Certification](https://img.shields.io/badge/Verify-blue?style=for-the-badge&logo=verified&logoColor=white)](https://learn.microsoft.com/en-us/users/anxkhn/credentials/60e4a16a343378da)
 
+## Other Dumps
+
+I have added dumps of other entry-level certifications within this repo. Although I have not appeared for these exams or made notes for them, they might be helpful if you are preparing or looking for them.
+
+[![AI 900](https://img.shields.io/badge/AI900-green?style=for-the-badge&logo=file-pdf&logoColor=white)](dumps/ai-900.pdf) |
+[![AZ 900](https://img.shields.io/badge/AZ900-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white)](dumps/az-900.pdf) |
+[![DP 900](https://img.shields.io/badge/DP900-blueviolet?style=for-the-badge&logo=microsoft-azure&logoColor=white)](dumps/dp-900.pdf) |
+[![AWS Practitioner](https://img.shields.io/badge/AWS%20Practitioner-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)](dumps/aws-practitioner.pdf) |
+
+[![DP 203 (Part 1)](https://img.shields.io/badge/DP203%20(Part%201)-blueviolet?style=for-the-badge&logo=microsoft-azure&logoColor=white)](dumps/dp-203-1.pdf) |
+[![DP 203 (Part 2)](https://img.shields.io/badge/DP203%20(Part%202)-blueviolet?style=for-the-badge&logo=microsoft-azure&logoColor=white)](dumps/dp-203-2.pdf)
 ---
 
-If you found this repository helpful, please leave a star. Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/anxkhn) or [Twitter](https://x.com/anxkhn) if you need any assistance.
+If you found this repository helpful, please leave a star. 
+
+Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/anxkhn) or [Twitter](https://x.com/anxkhn) if you need any assistance.
