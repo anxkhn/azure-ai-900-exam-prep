@@ -87,6 +87,8 @@ I have added dumps of other entry-level certifications within this repo. Althoug
 [![AI 900](https://img.shields.io/badge/AI900-green?style=for-the-badge&logo=file-pdf&logoColor=white)](dumps/ai-900.pdf) |
 [![AZ 900](https://img.shields.io/badge/AZ900-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white)](dumps/az-900.pdf) |
 [![DP 900](https://img.shields.io/badge/DP900-blueviolet?style=for-the-badge&logo=microsoft-azure&logoColor=white)](dumps/dp-900.pdf) |
+[![AI 102](https://img.shields.io/badge/AI102-maroon?style=for-the-badge&logo=microsoft-azure&logoColor=white)](dumps/ai-102.pdf) |
+
 [![AWS Practitioner](https://img.shields.io/badge/AWS%20Practitioner-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)](dumps/aws-practitioner.pdf) |
 
 [![DP 203 (Part 1)](https://img.shields.io/badge/DP203%20(Part%201)-blueviolet?style=for-the-badge&logo=microsoft-azure&logoColor=white)](dumps/dp-203-1.pdf) |
